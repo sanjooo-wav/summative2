@@ -1,0 +1,45 @@
+body {
+    margin: 20px;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+.brand {
+    margin-right: 15px;
+    color: black;
+    font-weight: bold;
+}
+
+nav {
+    display: inline;
+}
+
+nav a {
+    margin-right: 10px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 6px;
+    border: 1px solid black;
+    text-align: left;
+}
+
+.errors {
+    color: red;
+}
+
+.inline-form {
+    display: inline;
+}
+
+footer {
+    margin-top: 20px;
+}
